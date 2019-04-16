@@ -1,0 +1,22 @@
+<resources>
+    <!--<string name="app_name">CameraTest</string>-->
+
+    <string name="app_name">Camera</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello Photographers!</string>
+    <string name="slide_1_desc">The easiest way to get picture !</string>
+
+    <string name="slide_2_title">Simple And Easy</string>
+    <string name="slide_2_desc">No complex,no difficult,no waste time !</string>
+
+    <string name="slide_3_title">Great Features</string>
+    <string name="slide_3_desc">AI camera,huge filter libraries,bokeh shooting !</string>
+
+    <string name="slide_4_title">Best Images Quality</string>
+    <string name="slide_4_desc">Save full resolution of pictures !</string>
+
+</resources>
